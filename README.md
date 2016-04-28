@@ -1,2 +1,2 @@
 # hello-world
-status
+Updated status after initial commit
